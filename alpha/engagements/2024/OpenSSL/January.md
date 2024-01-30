@@ -1,1 +1,1 @@
-
+January was utilized mainly for making fixes based on the security audit. 12 out of the 14 issues have been fixed and merged, and 2 more remain. We hope to have everything wrapped up in February. The fixes were complex and required some time to remediate, and we wanted to give the OpenSSL all the time they needed without causing undue pressure. 
